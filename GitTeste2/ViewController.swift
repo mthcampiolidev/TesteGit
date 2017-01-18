@@ -21,5 +21,10 @@ class ViewController: UIViewController {
     }
 
 
+    func oi () {
+        
+        print("oi")
+    }
+    
 }
 
